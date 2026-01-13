@@ -1,0 +1,43 @@
+---
+title: "Dr. Peilun He"
+about: 
+  template: trestles
+  image: photo.jpg
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/peilunhe/
+    - icon: github
+      text: GitHub
+      href: https://github.com/peilun-he
+---
+
+## Experience
+
+**University of California, Santa Barbara** \| Santa Barbara, CA, USA
+
+Postdoctoral Scholar \| Jan 2026 - present
+
+**Macquarie University** \| Sydney, NSW, Australia
+
+Research Assistant \| Sep 2024 - Dec 2024
+
+Teaching Associate \| May 2022 - Jun 2025
+
+## Education
+
+**Macquarie University** \| Sydney, NSW, Australia
+
+PhD in Actuarial Studies and Business Analytics \| Nov 2020 - Jun 2025
+
+**Macquarie University** \| Sydney, NSW, Australia
+
+MRes in Actuarial Studies and Business Analytics \| Jan 2019 - Dec 2019
+
+**Macquarie University** \| Sydney, NSW, Australia
+
+Master of Applied Statistics \| Aug 2016 - Jul 2018
+
+**Qingdao University of Science and Technology** \| Qingdao, China
+
+Bachelor of Mathematics and Applied Mathematics \| Sep 2011 - Jun 2015

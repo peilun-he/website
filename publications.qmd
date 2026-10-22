@@ -4,13 +4,13 @@ title: "Publications"
 
 ## Preprints 
 
-1.  He, P., Shang, H.L., Zou, N., [On the Distributed Estimation for Scalar-on-Function Regression Models](https://arxiv.org/abs/2601.04138).
-2.  He, P., Peters, G. W., Kordzakhia, N., & Shevchenko, P. V., [Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commodity Futures Term Structure Dynamics](https://arxiv.org/abs/2412.05889).
-3.  He, P., Peters, G. W., Kordzakhia, N., & Shevchenko, P. V., [State-Space Dynamic Functional Regression for Multicurve Fixed Income Spread Analysis and Stress Testing](https://arxiv.org/abs/2409.00348).
+1.  He, P., Peters, G. W., Kordzakhia, N., & Shevchenko, P. V., [Multi-Factor Function-on-Function Regression of Bond Yields on WTI Commodity Futures Term Structure Dynamics](https://arxiv.org/abs/2412.05889).
 
 ## Journal Papers
 
-1.  He, P., Kordzakhia, N., Peters, G. W., Shevchenko, P. V. (2025). [PDSim: A Shiny app for simulating and estimating polynomial diffusion models in commodity futures](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.537). *Journal of Open Research Software*, 13, 21.
+1.  He, P., Shang, H. L., Zou, N. (2026). [On the distributed estimation for scalar-on-function regression models](https://doi.org/10.1080/03610918.2026.2713172). *Communications in Statistics - Simulation and Computation*. Advance online publication.
+2.  He, P., Peters, G. W., Kordzakhia, N., Shevchenko, P. V. (2026). [State-space dynamic functional regression for multicurve fixed income spread analysis and stress testing](https://doi.org/10.1017/S174849952610027X). *Annals of Actuarial Science*, 20(2), 439–472.
+3.  He, P., Kordzakhia, N., Peters, G. W., Shevchenko, P. V. (2025). [PDSim: A Shiny app for simulating and estimating polynomial diffusion models in commodity futures](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.537). *Journal of Open Research Software*, 13, 21.
 
 ## Conference Proceedings
 

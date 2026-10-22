@@ -11,6 +11,8 @@ website:
       - awards.qmd
       - publications.qmd
       - presentations.qmd
+      - href: activities.qmd
+        text: Academic Activities
     tools:  
       - icon: github
         href: https://github.com/peilun-he

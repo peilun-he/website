@@ -1,0 +1,12 @@
+---
+title: "Academic Activities"
+---
+
+## Supervision
+
+1. Zimo Zhu (2026 - present, PhD, University of California, Santa Barbara)
+2. Adam Mohib (2026 - present, PhD, University of California, Santa Barbara)
+
+## Peer Review
+
+Reviewer for [*Statistics of Random Processes and Optimal Control*](https://link.springer.com/book/9783032262646).
